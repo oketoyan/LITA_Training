@@ -32,8 +32,6 @@ Mushin Hamed. has took us the MSExcel course which lasted for 3weeks. we worked 
    where condition =true
    ``` 
 
-   #### Data Analysis
-   tthis is where we include some lines of code or queries and some expression used during analysis:
-   
+   #### Data Visualisation
+   ![screenshot for sql1](https://github.com/user-attachments/assets/cb9df00d-e3c3-49c5-b1c0-910a4ee7ec5f)
 
-7. 
