@@ -1,5 +1,23 @@
 # LITA_Training
 ## Project Title: Milestone on Data Analysis with THE INCUBATOR HUB
+
+### Project Outline
+[Project Overview](#project-overview)
+
+[Tools Used](#Ttools-used) 
+
+[SQL Module](#sql-module) 
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
+
+[Data Analysis](#data-dnalysis) 
+
+[Data Visualisation](#data-visualisation) 
+
+[MSExcel Shortcuts (to create table in Github)](#msexcel-shortcuts-(to-create-table-in-github)) 
+
+
+
 ### Project Overview
 ---
 **Data set** is a collection of data points and Data point is a single attribute in a data set. when data is generted, it comes in different structure and it has to be stored for future accessibility. Before Data can be analsysed it all starts with data generation, data storage, data transformation and then analysis which is folowed by data presentation. 
@@ -10,7 +28,6 @@ Analysis should strike what is working, what is not working and what we should f
   2. SQL(Structured Query Language)
   3. Power BI (for visualisation)
   4. GitHub (for portfolio building)
-
 
 ### SQL Module
 Mushin Hamed. has took us the MSExcel course which lasted for 3weeks. we worked on Data entry fundamentals, Formatting in Excel and Data validation. we did:
@@ -34,4 +51,13 @@ Mushin Hamed. has took us the MSExcel course which lasted for 3weeks. we worked 
 
    #### Data Visualisation
    ![screenshot for sql1](https://github.com/user-attachments/assets/cb9df00d-e3c3-49c5-b1c0-910a4ee7ec5f)
+
+
+### MSExcel Shortcuts (to create table in Github)
+|S/N| shortcuts      | Functions                         |
+|----|---------------| ----------------------------------|
+|1.  | ALT + AVV     | for data validation               |
+|2.  | Ctrl + down arrow      | go to thr last row               |
+|3.  | ctrl + right arrow    | go to the last column               |
+|4.  | shift + F3     | Insert FUNCTION             |
 
