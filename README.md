@@ -4,13 +4,13 @@
 ### Project Outline
 [Project Overview](#project-overview)
 
-[Tools Used](#Ttools-used) 
+[Tools Used](#tools-used) 
 
-[SQL Module](#sql-module) 
+[MSEXcel Module](#msexcel-module) 
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
-[Data Analysis](#data-dnalysis) 
+[Data Analysis](#data-analysis) 
 
 [Data Visualisation](#data-visualisation) 
 
@@ -29,11 +29,11 @@ Analysis should strike what is working, what is not working and what we should f
   3. Power BI (for visualisation)
   4. GitHub (for portfolio building)
 
-### SQL Module
+### MSExcel Module
 Mushin Hamed. has took us the MSExcel course which lasted for 3weeks. we worked on Data entry fundamentals, Formatting in Excel and Data validation. we did:
 1. Autofit
 2. cell validation
-3. Data Validation using ALT + AVV as shortcut [Download Here](https://www.microsoft.com)
+3. Data Validation using ALT + AVV as shortcut [Download Here](https://www.linkedin.com/posts/oketoyan-ruth-0a198670_dataabranalyst-incubatorabrhub-lita-activity-7246863271595560960-Z-OU?utm_source=share&utm_medium=member_android)
 4. Using shortcuts to carry out some functions
 5. Excel Functions
 
@@ -57,7 +57,13 @@ Mushin Hamed. has took us the MSExcel course which lasted for 3weeks. we worked 
 |S/N| shortcuts      | Functions                         |
 |----|---------------| ----------------------------------|
 |1.  | ALT + AVV     | for data validation               |
-|2.  | Ctrl + down arrow      | go to thr last row               |
-|3.  | ctrl + right arrow    | go to the last column               |
+|2.  | Ctrl + down arrow      | go to thr last row        |
+|3.  | ctrl + right arrow    | go to the last column      |
 |4.  | shift + F3     | Insert FUNCTION             |
+|5.  | ctrl + -    |delete row      |
+|6.  | Alt + tab     | to switch between tabs            |
+|7.  | ctrl + A   | to open arguement tabs     |
+|8.  | Alt + = + enter     | auto sum            |
+|9.  | ctrl + 0  | to hide column      |
+|10.  | ctrl + E    |flash fill            |
 
