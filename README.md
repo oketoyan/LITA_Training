@@ -6,7 +6,7 @@
 
 [Tools Used](#tools-used) 
 
-[MS EXcel Module](#msexcel-module) 
+[MS EXcel Module](#ms-excel-module) 
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
@@ -14,7 +14,7 @@
 
 [Data Visualisation](#data-visualisation) 
 
-[MS Excel Shortcuts](#msexcel-shortcuts) 
+[MS Excel Shortcuts](#ms-excel-shortcuts) 
 
 
 
