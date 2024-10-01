@@ -5,9 +5,16 @@ Data set is a collection of data points and Data point is a single attribute in 
 Analysis should strike what is working, what is not working and what we should focus on. The Incubator Hub gave me the opportunity to be part of  Ladies in tech bootcamp in Data Analysis. The cousre has been grouped into modules starting from MSEXCEL, SQL and POWER BI. The training has been on youtube and various tutors has been helping out. 
 
 ### Tools used
-  1. MSExcel
+  1. MSExcel (Data cleaning, analysis and visualisation)
   2. SQL(Structured Query Language)
   3. Power BI (for visualisation)
+  4. GitHub (for portfolio building)
+
 
 ### SQL Module
-Mushin H. has took us the MSExcel course which lasted for 3weeks. 
+Mushin Hamed. has took us the MSExcel course which lasted for 3weeks. we worked on Data entry fundamentals, Formatting in Excel and Data validation. we did:
+1. Autofit
+2. cell validation
+3. Data Validation using ALT + AVV as shortcut [Download Here](https://www.microsoft.com)
+4. 
+5. 
