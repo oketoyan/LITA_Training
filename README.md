@@ -6,7 +6,7 @@
 
 [Tools Used](#tools-used) 
 
-[MSEXcel Module](#msexcel-module) 
+[MS EXcel Module](#msexcel-module) 
 
 [Exploratory Data Analysis](#exploratory-data-analysis)
 
@@ -14,7 +14,7 @@
 
 [Data Visualisation](#data-visualisation) 
 
-[MSExcel Shortcuts (to create table in Github)](#msexcel-shortcuts-(to-create-table-in-github)) 
+[MS Excel Shortcuts](#msexcel-shortcuts) 
 
 
 
@@ -29,7 +29,7 @@ Analysis should strike what is working, what is not working and what we should f
   3. Power BI (for visualisation)
   4. GitHub (for portfolio building)
 
-### MSExcel Module
+### MS Excel Module
 Mushin Hamed. has took us the MSExcel course which lasted for 3weeks. we worked on Data entry fundamentals, Formatting in Excel and Data validation. we did:
 1. Autofit
 2. cell validation
@@ -44,16 +44,18 @@ Mushin Hamed. has took us the MSExcel course which lasted for 3weeks. we worked 
      iii. What are the products on peak sales?
 
    ### Data Analysis
-   ```SQL
-   select * from table1
-   where condition =true
+   
+   ```Excel
+   If (D8 = 'yes', 1, 5)
+   if (D8 = '1', 'yes', Nil)
    ``` 
 
    #### Data Visualisation
+   this screenshot is not an output, it is just to practice uploading a picture in github
    ![screenshot for sql1](https://github.com/user-attachments/assets/cb9df00d-e3c3-49c5-b1c0-910a4ee7ec5f)
 
 
-### MSExcel Shortcuts (to create table in Github)
+### MS Excel Shortcuts 
 |S/N| shortcuts      | Functions                         |
 |----|---------------| ----------------------------------|
 |1.  | ALT + AVV     | for data validation               |
