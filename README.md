@@ -16,7 +16,8 @@
 
 [MS Excel Shortcuts](#ms-excel-shortcuts) 
 
-[Reporting in EXCEL (Pivot Tables)](#Reporting-in-EXCEL-(Pivot-Tables))
+[Reporting in EXCEL (Pivot Tables)](#Reporting-in-EXCEL-(-Pivot-Tables-))
+
 
 
 
