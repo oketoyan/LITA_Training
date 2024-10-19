@@ -43,7 +43,7 @@ Mushin Hamed. has took us the MSExcel course which lasted for 3weeks. we worked 
      ii. Which product are top sellers?
      iii. What are the products on peak sales?
 
-   ### Data Analysis
+   #### Data Analysis
    
    ```Excel
    If (D8 = 'yes', 1, 5)
@@ -55,7 +55,7 @@ Mushin Hamed. has took us the MSExcel course which lasted for 3weeks. we worked 
    ![screenshot for sql1](https://github.com/user-attachments/assets/cb9df00d-e3c3-49c5-b1c0-910a4ee7ec5f)
 
 
-### MS Excel Shortcuts 
+#### MS Excel Shortcuts 
 |S/N| shortcuts      | Functions                         |
 |----|---------------| ----------------------------------|
 |1.  | ALT + AVV     | for data validation               |
@@ -68,4 +68,11 @@ Mushin Hamed. has took us the MSExcel course which lasted for 3weeks. we worked 
 |8.  | Alt + = + enter     | auto sum            |
 |9.  | ctrl + 0  | to hide column      |
 |10.  | ctrl + E    |flash fill            |
+
+#### Reporting in EXCEL (Pivot Tables)
+Pivot Tables is a data summarisation tool in Excel. i worked on some files to learn how to use pivottables. 
+The file contains 11columns which i used pivot table to summarise anf generate results.
+
+
+###SQL Module
 
