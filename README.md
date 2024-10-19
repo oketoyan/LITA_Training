@@ -16,7 +16,7 @@
 
 [MS Excel Shortcuts](#ms-excel-shortcuts) 
 
-[Reporting in EXCEL (Pivot Tables)](#Reporting-in-EXCEL-(-Pivot-Tables-))
+[Reporting in EXCEL using Pivot Tables](#Reporting-in-EXCEL-using-Pivot-Tables)
 
 
 
@@ -72,7 +72,7 @@ Mushin Hamed. has took us the MSExcel course which lasted for 3weeks. we worked 
 |9.  | ctrl + 0  | to hide column      |
 |10.  | ctrl + E    |flash fill            |
 
-#### Reporting in EXCEL (Pivot Tables)
+#### Reporting in EXCEL using Pivot Tables
 Pivot Tables is a data summarisation tool in Excel. i worked on some files to learn how to use pivottables. 
 The file contains 11columns which i used pivot table to summarise and generate results. the results are shown below:
 
