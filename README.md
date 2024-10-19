@@ -16,6 +16,8 @@
 
 [MS Excel Shortcuts](#ms-excel-shortcuts) 
 
+[Reporting in EXCEL (Pivot Tables)](#Reporting-in-EXCEL-(Pivot-Tables))
+
 
 
 ### Project Overview
@@ -72,6 +74,7 @@ Mushin Hamed. has took us the MSExcel course which lasted for 3weeks. we worked 
 #### Reporting in EXCEL (Pivot Tables)
 Pivot Tables is a data summarisation tool in Excel. i worked on some files to learn how to use pivottables. 
 The file contains 11columns which i used pivot table to summarise and generate results. the results are shown below:
+
 ![excel report4](https://github.com/user-attachments/assets/4e005d67-2c75-40f7-a465-1fe0d967c4ba)
 ![excel report3](https://github.com/user-attachments/assets/78034c34-96c8-4008-b3cf-bbcb5c0aee7f)
 ![excel report2](https://github.com/user-attachments/assets/c25d5015-f70e-4b75-9478-19fae99b022b)
